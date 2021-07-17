@@ -1,0 +1,27 @@
+/* Grobal */
+:root{
+    /* Color */
+    --color-white: #ffffff;
+    --color-light-white: #eeeeee;
+    --color-dark-white: #bdbdbd;
+    --color-pink: #f09494;
+    --color-dark-pink: #c24545;
+    --color-black: #363636;
+    --color-dark-grey: #535353;
+    --color-light-grey: #6b6b6b;
+    --color-blue:#859dc9;
+    --color-yellow: #f7dd69;
+    --color-orange: #ffbd52;
+    --color-black: #000000;
+
+    /* Font size */
+    --font-large: 48px; 
+    --font-medium: 28px;
+    --font-regular: 18px;
+    --font-small: 16px;
+    --font-micro: 14px; 
+}
+/* Universal tags */
+* {
+    box-sizing: border-box;
+}
